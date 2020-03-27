@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CuadrosTexto</string>
+    <string name="saludo">BIENVENIDO</string>
+    <string name="txt_user">Usuario</string>
+    <string name="txt_emain">Correo</string>
+    <string name="txt_valida">OK</string>
+    <string name="txt_pass">Contraseña</string>
+    <string name="txt_verPass">Verificar Contraseña</string>
+</resources>

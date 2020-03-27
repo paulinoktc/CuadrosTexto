@@ -1,0 +1,2 @@
+rootProject.name='CuadrosTexto'
+include ':app'
